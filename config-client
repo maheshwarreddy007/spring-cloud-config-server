@@ -1,2 +1,2 @@
-welcome.message=welcome message from  property file ! welcome to ${app.name}
-app.name= My app
+welcome.message=welcome message from  github file ! welcome to ${app.name}
+app.name= My Github 
